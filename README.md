@@ -1,6 +1,6 @@
 # 💰 Expense Tracker CLI
 
-> **Day X of 100** - Building a command-line expense tracking application
+> **Day 3 of 100** - Building a command-line expense tracking application
 > 
 > **Today's Learning**: Working with SQLite databases in Python, implementing CRUD operations, and creating user-friendly CLI interfaces with formatted table outputs using the tabulate library.
 
